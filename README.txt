@@ -17,5 +17,7 @@ Possible approaches:
 - this is defined as sum(:) )/number_posts
 * Use Yelp positivitity library
 
+Future direction:
+To see if check-in correlated to the positivity
 Data preprocessing:
 
